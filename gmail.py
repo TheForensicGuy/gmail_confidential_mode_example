@@ -10,8 +10,8 @@
 ## 1. download chromedriver from https://chromedriver.storage.googleapis.com/index.html?path=84.0.4147.30/
 ##    unzip and ensure chromedriver is in $PATH perhaps by using "mv chromedriver /usr/local/bin"
 ## 2. pip install selenium 
-## 3. if the sending gmail account is brand new then sugget you login a couple 
-@@    of times manually to get past any initial welcome or guidance popups
+## 3. if the sending gmail account is brand new then suggest you login a couple 
+##    of times manually to get past any initial welcome or guidance popups
 ##
 ## this example created 2020-07-19 
 ## https://github.com/TheForensicGuy/gmail_confidential_mode_example
